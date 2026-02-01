@@ -28,8 +28,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Import\" />
-    <Folder Include="Data\Complete\" />
+    <Folder Include="Data\Complete\future\" />
+    <Folder Include="Data\Complete\option\" />
+    <Folder Include="Data\Import\future\" />
+    <Folder Include="Data\Import\option\" />
   </ItemGroup>
 
 </Project>
