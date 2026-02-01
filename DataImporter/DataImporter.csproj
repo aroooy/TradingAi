@@ -27,4 +27,9 @@
     <ProjectReference Include="..\TradingAi.Core\TradingAi.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\Import\" />
+    <Folder Include="Data\Complete\" />
+  </ItemGroup>
+
 </Project>
